@@ -1,6 +1,7 @@
 # CookIt!
 
-![Captura de Recetas](.readme-static/captura.png)
+![Captura de CookIt! Mobile](.readme-static/captura.png)
+![Captura de CookIt! Desktop](.readme-static/desktop.png)
 
 PWA que utiliza la API de MealDB para mostrar recetas con sus instrucciones. Algunas de las features que tiene son:
 
